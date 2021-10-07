@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HemanthVikash
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning Deep Learning in Neural Networks
-- 💞️ I’m looking to collaborate on my top secret research on Neural Networks 
+- 💞️ I’m looking to collaborate on my research on Neural Networks 
 - 📫 How to reach me:
   Email: hemanthv@vt.edu
   
