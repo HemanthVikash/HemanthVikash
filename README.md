@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Deep Learning in Neural Networks
 - 💞️ I’m looking to collaborate on my research on Neural Networks 
 - 📫 How to reach me:
-  Email: hemanthv@vt.edu
+  Email: hemanth.rajan98@gmail.com
   
 
 <!---
